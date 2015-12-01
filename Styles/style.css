@@ -1,3 +1,16 @@
-.mdl-home-card.mdl-card {
+.header-image {
+  height: 400px;
+  margin-bottom: 100px;
+}
+.center-text {
+  text-align: center;
+}
+.mdl-card {
   width: 100%;
+}
+.mdl-home-card {
+  height: 400px;
+  background: url("https://aviation.osu.edu/sites/aviation.osu.edu/files/media/Campus%20photo.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
 }
