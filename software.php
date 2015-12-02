@@ -63,7 +63,7 @@ include_once "nav.php";
           </li>
           <li>
             <div class="collapsible-header"><i class="material-icons">filter_drama</i>Graduation Status</div>
-            <div class="collapsible-body">
+            <div class="collapsible-body"><p></p></div>
           </li>
         </ul>
         <br/>
@@ -74,11 +74,27 @@ include_once "nav.php";
         <h5> Mobile Applications </h5>
         <h6> Ohio State currently has their own school app that&#39;s available on iOS and Android devices. The app allows for students to login and be able to interact with Carmen and other very
           important tools to be successful on campus. The app offers a Map, Building Locator, and even a schedule for buses. Other features include: </h6>
-          <ul class="collection">
-            <li class="collection-item">OSU &quot;Find People&quot;</li>
-            <li class="collection-item">Athletics</li>
-            <li class="collection-item">Safety Contacts</li>
-            <li class="collection-item">Class Search</li>
-            <li class="collection-item">Account and Advising Information.</li>
+          <br/>
+          <ul class="collapsible popout" data-collapsible="accordion">
+            <li>
+              <div class="collapsible-header"><i class="material-icons">filter_drama</i>OSU &quot;Find People&quot;</div>
+              <div class="collapsible-body"><p></p></div>
+            </li>
+            <li>
+              <div class="collapsible-header"><i class="material-icons">filter_drama</i>Athletics</div>
+              <div class="collapsible-body"><p></p></div>
+            </li>
+            <li>
+              <div class="collapsible-header"><i class="material-icons">filter_drama</i>Safety</div>
+              <div class="collapsible-body"><p></p></div>
+            </li>
+            <li>
+              <div class="collapsible-header"><i class="material-icons">filter_drama</i>Class Search</div>
+              <div class="collapsible-body"><p></p></div>
+            </li>
+            <li>
+              <div class="collapsible-header"><i class="material-icons">filter_drama</i>Account and Advising Information</div>
+              <div class="collapsible-body"><p></p></div>
+            </li>
           </div>
         </div>

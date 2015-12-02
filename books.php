@@ -3,13 +3,14 @@ include_once "nav.php";
 ?>
 
 <html>
-<h2> Textbooks: Hard Copy or E-Book? </h2>
+
 <div class="container">
+  <h4> Textbooks: Hard Copy or E-Book? </h4>
   <br />
   <h6> [Some Synopsis of the Section Here]</h6>
   <br />
   <div class="divider"> </div>
-  <h4> Hard Copy Textbooks </h4>
+  <h5> Hard Copy Textbooks </h5>
   <br />
   <div class="content">
     <ul class="collapsible popout" data-collapsible="accordion">
@@ -31,7 +32,7 @@ include_once "nav.php";
   </div>
   <br />
   <div class="divider"> </div>
-  <h4> E-Books </h4>
+  <h5> E-Books </h5>
   <br />
   <div class="content">
     <ul class="collapsible popout" data-collapsible="accordion">
@@ -62,7 +63,6 @@ include_once "nav.php";
               <th data-field="price">Cons</th>
           </tr>
         </thead>
-
         <tbody>
           <tr>
             <td>Textbook</td>
