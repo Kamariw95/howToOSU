@@ -2,13 +2,22 @@
 include_once "nav.php";
 
 ?>
-<h2> Staying Fit in College! </h2>
+
 <div class="container">
+  <h4> Staying Fit in College! </h4>
   <br />
   <h6> [Some Synopsis of the Section Here]</h6>
   <br />
   <div class="divider"> </div>
   <br/>
-  Where can I work out? Gyms on campus: Recreation & Physical Activity Center (RPAC), Jesse Owens North (JON), Jesse Owens South (JOS), Jesse Owens West (JOW), Adventure Recreation Center (ARC)
-  Other: outside, around campus, Olentangy River Path (entrance by Morrill and Lincoln Towers)
+  <h5>Where can I work out?</h5>
+  <p>Gyms on campus:</p>
+  <ul>
+  <li>Recreation & Physical Activity Center (RPAC)</li>
+  <li>Jesse Owens North (JON)</li>
+  <li>Jesse Owens South (JOS)</li>
+  <li>Jesse Owens West (JOW)</li>
+  <li>Adventure Recreation Center (ARC)</li>
+</ul>
+  <p>Other: Around Campus or Olentangy River Path (entrance by Morrill and Lincoln Towers) </p>
 </div>

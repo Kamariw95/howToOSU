@@ -2,25 +2,30 @@
 include_once "nav.php";
 
 ?>
-<h2> Sick Tips! </h2>
+
 <div class="container">
+  <h4>Sick Tips!</h4>
   <br />
-  <h6> [Some Synopsis of the Section Here]</h6>
+  <p>In college, you are surrounded by thousands of people (and their germs) each day.  When a classmate get sick,
+    catching a bug seems  nearly unavoidable.  Check out the best ways to stay healthy and what you
+    can do if you find yourself feeling unwell.</p>
   <br />
   <div class="divider"> </div>
   <br/>
-  How do I avoid getting sick? 1. Wash your hands frequently
-  				2. Don’t share a drinking cup
-  				3. Avoid touching your eyes, nose, and mouth
-  				4. Drink plenty of water
-  				5. Avoid being around sick acquaintances
-  				6. Get a flu shot
-  				7. Go to the doctor when sick
-  Where can I get treatment?
-  	Visit Student Health Services (https://shs.osu.edu) or Student Wellness Center (https://swc.osu.edu/)
-  -appointments
-  -services
-  -close and convenient
-
-  CVS Minute Clinic- Lane Ave. and High Street
+  <h5>How do I avoid getting sick?</h5>
+  <ol>
+    <li>Wash your hands frequently</li>
+    <li>Don&#39;t share a drinking cup</li>
+    <li>Avoid touching your eyes, nose, and mouth</li>
+    <li>Drink plenty of water</li>
+    <li>Avoid being around sick acquaintances</li>
+    <li>Get a flu shot</li>
+    <li>Go to the doctor when sick</li>
+  </ol>
+  <br />
+  <div class="divider"> </div>
+  <br/>
+  <h5>Where can I get treatment?</h5>
+  <p>Visit Student Health Services (https://shs.osu.edu) or Student Wellness Center (https://swc.osu.edu/)</p>
+  <p>CVS Minute Clinic - Lane Ave. and High Street</p>
 </div>

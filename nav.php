@@ -9,16 +9,16 @@ include_once "header.html";
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="index.php">Home</a></li>
-        <li><a href="howtotech.php">How To Tech</a></li>
-        <li><a href="howtohealth.php">How To Health</a></li>
+        <li><a href="howtotech.php">How to: Tech</a></li>
+        <li><a href="howtohealth.php">How to: Health</a></li>
         <li><a href="aboutus.php">About Us</a></li>
         <li><a href="references.php">References</a></li>
         <li><a href="citations.php">Citations</a></li>
       </ul>
       <ul class="side-nav" id="mobile-demo">
         <li><a href="index.php">Home</a></li>
-        <li><a href="howtotech.php">How To Tech</a></li>
-        <li><a href="howtohealth.php">How To Health</a></li>
+        <li><a href="howtotech.php">How to: Tech</a></li>
+        <li><a href="howtohealth.php">How to: Health</a></li>
         <li><a href="aboutus.php">About Us</a></li>
         <li><a href="references.php">References</a></li>
         <li><a href="citations.php">Citations</a></li>
